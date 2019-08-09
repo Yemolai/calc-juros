@@ -1,6 +1,6 @@
 # CalcJuros (calc-juros)
 
-Calculadora de juros
+Calculadora de juros compostos para prova-de-conceito de uso de Vue com Quasar framework, este exemplo está disponível em [calc-juros-yemolai.surge.sh](http://calc-juros-yemolai.surge.sh).
 
 ## Install the dependencies
 ```bash
